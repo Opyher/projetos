@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(226, 133, 51);
+    
+}
+h1{
+    text-align: center;
+    color: white;
+    font-variant: small-caps;
+    font-size: 3em;
+    text-shadow: 0px 2px 4px black;
+}
+.conteiner{
+    margin: auto;
+    max-width: 500px;
+    background-color: white;
+    padding: 15px;
+    font-size: 1.2em;
+    border-radius: 15px;
+    box-shadow: 0px 0px 10px black;
+    
+}
+input[type="button"]{
+    font-size: 0.7em;
+    font-variant: small-caps;
+    box-shadow: 2px -2px 2px black;
+
+}
+/*#result{
+    background-color: #6f69694b;
+    width: 150px;   
+    margin-top: 10px;
+    
+} */ 
+#select{
+    font-size: 0.7em;
+    display: block;
+    margin: 10px 0 10px 0;
+    background-color: rgba(128, 128, 128, 0.121);
+    outline: none;
+    border: none;
+}
